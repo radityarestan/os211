@@ -32,5 +32,6 @@ ZCZC W01 30 L22 YouTube: study, etc
 ZCZC W02  20 L01 SCELE related
 ZCZC W02  80 L02 ZOOM related
 ZCZC W02  10 L03 GitHub related
-ZCZC W02  10 L05 GSGS related
-ZCZC W02 200 L10 Assignment (General)
+ZCZC W02  30 L05 GSGS related
+ZCZC W02 200 L10 Assignment (General
+ZCZC W02  10 L25 C-language:study, etc.)
