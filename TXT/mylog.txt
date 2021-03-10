@@ -23,3 +23,8 @@ ZCZC W01  5 L16 Assignment #6
 ZCZC W01 70 L17 Assignment #7
 ZCZC W01 40 L18 Assignment #8
 ZCZC W01 30 L22 YouTube: study, etc
+ZCZC W02 20 L01 SCELE related
+ZCZC W02 80 L02 ZOOM related
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 10 L05 GSGS related
+ZCZC W02 70 L10 Assignment (General)
