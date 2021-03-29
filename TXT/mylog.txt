@@ -50,3 +50,15 @@ ZCZC W03  10 L16 Assignment#6
 ZCZC W03  60 L17 Assignment#7
 ZCZC W03  30 L18 Assignment#8
 ZCZC W03   1 L19 Assignment#9
+ZCZC W04  30 L01 SCELE related
+ZCZC W04  90 L02 Zoom related
+ZCZC W04  45 L05 GSGS related
+ZCZC W04  30 L08 Trying to connect to @os211.vlsm.org
+ZCZC W04  90 L11 Assignment#1
+ZCZC W04  70 L12 Assignment#2
+ZCZC W04  40 L13 Assignment#3
+ZCZC W04 180 L14 Assignment#4
+ZCZC W04  10 L15 Assignment#5
+ZCZC W04  30 L16 Assignment#6
+ZCZC W04   5 L17 Assignment#7
+ZCZC W04   1 L18 Assignment#8
