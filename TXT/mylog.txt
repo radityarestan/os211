@@ -73,7 +73,7 @@ ZCZC W05   5 L15 Assignment#5
 ZCZC W05   1 L16 Assignment#6
 ZCZC W06  60 L01 SCELE related
 ZCZC W06  80 L02 ZOOM related
-ZCZC W06  39 L05 GSGS related
+ZCZC W06  30 L05 GSGS related
 ZCZC W06  60 L11 Assignment#1
 ZCZC W06  30 L12 Assignment#2
 ZCZC W06 120 L13 Assignment#3
